@@ -1,16 +1,16 @@
 {
-  "name": "docs",
-  "version": "0.0.0",
+  "name": "@ycs/docs",
+  "version": "1.0.0",
   "description": "docs",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/yc-server/docs.git",
   "author": {
-    "name": "",
-    "email": "",
-    "url": ""
+    "name": "Yu Chen",
+    "email": "yu@chen.news",
+    "url": "https://yu.chen.news"
   },
   "keywords": [
-    ""
+    "ycs"
   ],
   "files": [
     "lib"
