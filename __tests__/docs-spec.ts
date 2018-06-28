@@ -480,5 +480,4 @@ describe('test class DocSchema', () => {
       },
     });
   });
-
 });
